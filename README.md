@@ -1,7 +1,10 @@
 # nedb-promises
 A dead-simple promise wrapper for [nedb](https://github.com/louischatriot/nedb#readme).
 
-**changed**：no other dependencies, only `nedb`
+**Changed**：No other dependencies, only `nedb`.
+
+Use `npm install git+https://github.com/ywzhaiqi/nedb-promises.git` to install.
+
 
 ```js
 const Datastore = require('nedb-promises');
